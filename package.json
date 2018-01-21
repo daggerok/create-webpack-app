@@ -1,0 +1,17 @@
+{
+  "name": "create-webpack-app",
+  "version": "0.0.1",
+  "author": {
+    "name": "Maksim Kostromin",
+    "email": "daggerok@gmail.com",
+    "url": "https://github.com/daggerok/"
+  },
+  "private": false,
+  "homepage": "https://daggerok.github.io/create-webpack-app/",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "build": "yarn start"
+  }
+}

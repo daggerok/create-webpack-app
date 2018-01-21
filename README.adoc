@@ -1,0 +1,7 @@
+= create-webpack-app image:https://travis-ci.org/daggerok/create-webpack-app.svg?branch=master["Build Status", link="https://travis-ci.org/daggerok/create-webpack-app"]
+
+.docs
+----
+yarn -i
+yarn build
+----
